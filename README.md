@@ -4,20 +4,9 @@
 🐍 Currently mastering Python  
 🎯 Destination: Full Stack + AI/ML  
 🌱 Learning every single day  
-🚀 Building projects from scratch  
-
----
-
-## ⚡ What I'm up to
-- 🔥 Python — basics to advanced
-- 🌐 Full Stack — coming soon
-- 🤖 AI & ML — the final boss
 
 ## 🛠️ Tools I'm learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
----
-
-> *"I don't know everything yet — but I'm getting there."* 🔥
