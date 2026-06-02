@@ -1,8 +1,6 @@
 # Hey, I'm Sachin Dangi 👋
 
-🖥️ Self-taught developer in the making  
-🐍 Currently mastering Python  
-🎯 Destination: Full Stack + AI/ML  
+🖥️ Self-taught developer in the making    
 🌱 Learning every single day  
 
 ## 🛠️ Tools I'm learning
